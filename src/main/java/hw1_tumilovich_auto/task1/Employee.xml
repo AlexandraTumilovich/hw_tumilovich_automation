@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <company_name>Hospital #1</company_name>
+    <employees>
+        <employee first_name="Ivan" last_name="Ivanov" position="doctor" department="surgery" record_of_service="10"/>
+        <employee first_name="Petr" last_name="Petrov" position="doctor" department="resuscitation" record_of_service="8"/>
+        <employee first_name="Maria" last_name="Sidorova" position="nurse" department="emergency room" record_of_service="9"/>
+    </employees>
+</company>
